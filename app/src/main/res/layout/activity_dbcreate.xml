@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center_horizontal"
+    android:background="#f8d8d9"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textColor="@color/black"
+        android:text="ADD PARTICIPANTS FOR THIS EVENT" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="307dp"
+        android:src="@drawable/logo2"/>
+
+    <EditText
+        android:id="@+id/email_peserta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Your Email"
+        android:textColor="@color/black"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/nama_peserta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:hint="Your Name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/hr_peserta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Empty, Please Choose Day and Time"
+        android:textColor="@color/black"
+        android:enabled="false"
+        android:inputType="text" />
+
+    <Spinner
+        android:id="@+id/spinnerHari"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:entries="@array/Hari" />
+
+
+    <Button
+        android:id="@+id/bt_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit" />
+
+</LinearLayout>
+

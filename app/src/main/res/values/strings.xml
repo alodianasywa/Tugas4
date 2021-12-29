@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUD Application With Firebase</string>
+    <array name="Hari">
+        <item>-- Choose Day and Time --</item>
+        <item>Saturday, 25 December 2021 10.00 - 13.00</item>
+        <item>Saturday, 25 December 2021 14.00 - 17.00</item>
+        <item>Sunday, 26 December 2021 10.00 - 13.00</item>
+        <item>Sunday, 26 December 2021 14.00 - 17.00</item>
+    </array>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/drawable/bg_app.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/drawable/bg_menu.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/drawable/bg_mini_menu.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/activity_about_us.xml" value="0.1796875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/activity_car_list.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/activity_db_read.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/activity_dbcreate.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/activity_project3.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/dialogue_view.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/item_peserta.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/fanyt/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/drawable/bg_app.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/fanyt/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/drawable/bg_menu.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/fanyt/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/drawable/bg_mini_menu.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/fanyt/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/fanyt/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/activity_db_read.xml" value="0.1" />
+        <entry key="..\:/Users/fanyt/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/activity_dbcreate.xml" value="0.22" />
+        <entry key="..\:/Users/fanyt/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/fanyt/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/bg_app.xml" value="0.1094224924012158" />
+        <entry key="..\:/Users/fanyt/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/dialogue_view.xml" value="0.17" />
+        <entry key="..\:/Users/fanyt/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/item_dosen.xml" value="0.21" />
+        <entry key="..\:/Users/fanyt/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/layout/item_peserta.xml" value="0.25" />
+        <entry key="..\:/Users/fanyt/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/fanyt/AndroidStudioProjects/MyFirebaseCRUD/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24114583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

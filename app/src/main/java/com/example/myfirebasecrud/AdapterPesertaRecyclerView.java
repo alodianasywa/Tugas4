@@ -31,22 +31,21 @@ public class AdapterPesertaRecyclerView extends
 
     // variable yang merefers ke Firebase Realtime Database
     private DatabaseReference database;
-
-    public AdapterPesertaRecyclerView(ArrayList<Peserta> pesertaEvent, Context ctx){
+       
         /**
          * Inisiasi data dan variabel yang akan digunakan
          */
+    public AdapterPesertaRecyclerView(ArrayList<Peserta> pesertaEvent, Context ctx){
         daftarpesertaEvent = pesertaEvent;
         context = ctx;
     }
 
-    class ViewHolder extends RecyclerView.ViewHolder {
-
-        /**
+ /**
          * Inisiasi View
          * Di tutorial ini kita hanya menggunakan data String untuk tiap item
          * dan juga view nya hanyalah satu TextView
          */
+    class ViewHolder extends RecyclerView.ViewHolder {
         TextView tvEmail, tvHari;
 
         ViewHolder(View v) {
